@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KH1wyZPe48oZ7ObUN1dfBgbSXLk086V2hWUBk2REoca5tMEXQ459lDMTFZTYKYZPf2VNs/nGo6XcwZH7kP8g7Q==",
+  "dgSpecHash": "AIhk+/kgT4erxDXkOwmjz9uQgQv/pUxxueUVqJUK7MHUoyBtWdb1BlFz7eQxa5SipPch6NBRb8OHUCZGeyfonA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S7718424\\source\\repos\\week2Assignment\\week2Assignment.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tcant\\source\\repos\\tcantello\\week2Assignment\\week2Assignment\\week2Assignment\\week2Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\tcant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tcant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tcant\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,11 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
+    "776458ed-364a-4cf8-913f-bc3c0fb93f8e": {
+      "ProjectGuid": "776458ed-364a-4cf8-913f-bc3c0fb93f8e",
+      "DisplayName": "week2Assignment",
+      "ColorIndex": 0
+    },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
